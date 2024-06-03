@@ -1,0 +1,15 @@
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\ParhuzamosKiiras\bin\Debug\ParhuzamosKiiras.exe.config
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\ParhuzamosKiiras\bin\Debug\ParhuzamosKiiras.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\ParhuzamosKiiras\bin\Debug\ParhuzamosKiiras.pdb
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.csproj.AssemblyReference.cache
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.csproj.CoreCompileInputs.cache
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.pdb
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\bin\Debug\ParhuzamosKiiras.exe.config
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\bin\Debug\ParhuzamosKiiras.exe
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\bin\Debug\ParhuzamosKiiras.pdb
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.csproj.AssemblyReference.cache
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.csproj.SuggestedBindingRedirects.cache
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.csproj.CoreCompileInputs.cache
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.exe
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\ParhuzamosKiiras\obj\Debug\ParhuzamosKiiras.pdb

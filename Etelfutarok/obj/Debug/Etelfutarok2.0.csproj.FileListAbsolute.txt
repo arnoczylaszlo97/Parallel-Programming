@@ -1,0 +1,15 @@
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Etelfutarok2.0\bin\Debug\Etelfutarok2.0.exe.config
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Etelfutarok2.0\bin\Debug\Etelfutarok2.0.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Etelfutarok2.0\bin\Debug\Etelfutarok2.0.pdb
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.csproj.AssemblyReference.cache
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.csproj.CoreCompileInputs.cache
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.pdb
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\bin\Debug\Etelfutarok2.0.exe.config
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\bin\Debug\Etelfutarok2.0.exe
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\bin\Debug\Etelfutarok2.0.pdb
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.csproj.AssemblyReference.cache
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.csproj.CoreCompileInputs.cache
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.exe
+C:\Users\ArnóczyLászlóVince\Desktop\School and Projects\MainRepo\EtelFutarok\Etelfutarok2.0\obj\Debug\Etelfutarok2.0.pdb
